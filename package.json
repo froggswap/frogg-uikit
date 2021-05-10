@@ -1,11 +1,10 @@
 {
-  "name": "@pancakeswap/uikit",
-  "version": "0.30.0",
-  "description": "Set of UI components for pancake projects",
+  "name": "@froggswap/uikit",
+  "version": "0.10.0",
+  "description": "Set of UI components for frogg projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
-  "repository": "https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
